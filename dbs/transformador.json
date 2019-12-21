@@ -1,0 +1,15 @@
+{
+    "transformador":
+    
+      {
+        "id": 1,
+        "fornecedor": "Agua Viva",
+        "marca": "Agua Viva",
+        "modelo": "Agua Viva ",
+        "potencia": 60,
+        "custo": 20,
+        "margem_de_lucro": 50,
+        "preco": 30
+      }
+    
+}

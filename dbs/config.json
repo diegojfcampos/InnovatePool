@@ -1,0 +1,33 @@
+{
+    "manta":
+    [
+        {"preco": 7.5}
+    ],
+    "areia":
+    [
+        {"preco": 22.5 }
+    ],
+    "perfil_rigido":
+    [
+        {"preco": 15}
+    ],
+    "transformador":
+    [
+        {"preco": 30}
+    ],
+    "caixa_passagem":
+    [
+        {"preco": 30}
+    ],
+    "tampa":
+    [
+        {"modelo": "1.0 x 1.0", "preco": 600},
+        {"modelo": "1.2  x 1.2", "preco": 750}
+    ],
+    "modulo":
+    [
+        {"id": 1, "Fornecedor": "Agua Viva", "Modelo": "72W", "preco": 150},
+        {"id": 2,"Fornecedor": "Natilus","Modelo": "72W",  "preco": 450}
+    ]
+
+}

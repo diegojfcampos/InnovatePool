@@ -1,0 +1,14 @@
+{
+   "manta":    
+        {    
+         "id": 1,
+         "fornecedor": "Stilo Plast",
+         "marca": "Stilo Plast",
+         "modelo": "2 mm ",
+         "tamanho": "1m quadrado",
+         "custo": 5,
+         "margem_de_lucro": 50,
+         "preco": 7.5
+        }
+    
+}

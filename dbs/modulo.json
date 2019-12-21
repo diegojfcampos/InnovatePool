@@ -1,0 +1,25 @@
+{
+    "modulo":
+    [
+      {
+        "id": 1,
+        "fornecedor": "Agua Viva",
+        "marca": "Sem Marca",
+        "modelo": "72W",
+        "potencia": 72,
+        "custo": 100,
+        "margem_de_lucro": 50,
+        "preco": 150
+      },
+      {
+        "id": 2,
+        "fornecedor": "Nautilus",
+        "marca": "Nautilus",
+        "modelo": "72W",
+        "potencia": 72,
+        "custo": 300,
+        "margem_de_lucro": 50,
+        "preco": 450
+      }
+    ]
+}

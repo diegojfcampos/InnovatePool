@@ -1,0 +1,52 @@
+body {
+    padding: 3% 20%;
+}
+
+* {
+    font-family: Helvetica;
+    color: #333;
+}
+
+a {
+    color: #4499FF;
+    display: block;
+    padding: 10px;
+}
+
+input, button, .button, label {
+    border-radius: 10px;
+    border: 1px solid #999;
+    padding: 10px;
+    width: 350px;
+    display: block;
+}
+label {
+    border: 0; 
+    padding: 15px 0 0 0;
+}
+button, .button {
+    font-weight: 600;
+    letter-spacing: .15em;
+    font-size: 1em;
+    padding: 10px 0;
+    margin: 15px 0;
+    background: #4499FF;
+    color: #FFF;
+    text-decoration: none;
+    text-align: center;
+}
+
+table {
+    border: 1px solid #CCC;
+    width: 100%;
+}
+td, th {
+    border-bottom: 1px solid #CCC;
+    padding: 12px;
+    font-size: .9em;
+    text-transform: capitalize;
+    text-align: center;
+}
+tr:last-child td{
+    border: 0;
+}

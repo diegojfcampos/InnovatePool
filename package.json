@@ -1,0 +1,16 @@
+{
+  "name": "piscina_html",
+  "version": "1.0.0",
+  "description": "Projeto de programa de orçamento para piscina de vinil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "principal": "nodemon --exec python main.py",
+    "server": "nodemon --exec python server.py"
+  },
+  "author": "Titi grupo",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.19.2"
+  }
+}

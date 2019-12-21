@@ -1,0 +1,11 @@
+{
+    "momotor":
+    
+        {
+         "id": 1,
+         "custo": 100,
+         "margem_de_lucro": 50,
+         "preco": 150
+        }
+    
+}

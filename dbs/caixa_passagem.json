@@ -1,0 +1,14 @@
+{
+    "caixa_de_passagem":
+    
+      {
+        "id": 1,
+        "fornecedor": "Sodramar",
+        "marca": "Sodramar",
+        "tamanho": "9 x 9",
+        "custo": 20,
+        "margem_de_lucro": 50,
+        "preco": 30
+      }
+    
+}

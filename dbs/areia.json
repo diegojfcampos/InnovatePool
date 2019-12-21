@@ -1,0 +1,15 @@
+{
+    "areia":
+    
+      {
+        "id": 1,
+        "fornecedor": "Mineracao Sao Joao",
+        "marca": "Sao Joao",
+        "modelo": "Grossa",
+        "peso": 25,
+        "custo": 15,        
+        "margem_de_lucro": 50,
+        "preco": 22.5
+      }
+    
+}

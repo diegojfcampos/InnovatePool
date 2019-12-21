@@ -1,0 +1,41 @@
+{
+  "vinils":
+  [
+    {
+      "id": 1,
+      "fornecedor": "Viniplas",
+      "marca": "Cipavinil",
+      "espessura": "0.7mm",
+      "custo": 51,
+      "margem_de_lucro": 50,
+      "preco": 76.5
+    },
+    {
+      "id": 2,
+      "fornecedor": "Viniplas",
+      "marca": "cipavinil",
+      "espessura": "0.8mm",
+      "custo": 66.3,
+      "margem_de_lucro": 50,
+      "preco": 114.75
+    },
+    {
+      "id": 3,
+      "fornecedor": "sodramar",
+      "marca": "cipavinil",
+      "espessura": "0,6mm",
+      "custo": 55,
+      "margem_de_lucro": 50,
+      "preco": 82.5
+    },
+    {
+      "id": 4,
+      "fornecedor": "sodramar",
+      "marca": "cipavinil",
+      "espessura": "0,8mm",
+      "custo": 71,
+      "margem_de_lucro": 50,
+      "preco": 106.5
+    }
+  ]
+}

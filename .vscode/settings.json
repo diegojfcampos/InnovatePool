@@ -1,0 +1,9 @@
+{
+    "python.testing.pytestArgs": [
+        "objetos"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.pythonPath": "C:\\Users\\Diego\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe"
+}

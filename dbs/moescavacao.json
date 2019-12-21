@@ -1,0 +1,11 @@
+{
+    "escavacao":
+    
+        {
+         "id": 1,
+         "custo": 14,
+         "margem_de_lucro": 50,
+         "preco": 21
+        }
+    
+}
